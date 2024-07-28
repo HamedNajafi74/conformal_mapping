@@ -9,3 +9,7 @@ Further details are available here:
   5. https://phys.libretexts.org/Bookshelves/University_Physics/Physics_(Boundless)/18%3A_Electric_Potential_and_Electric_Field/18.2%3A_Equipotential_Surfaces_and_Lines
 
 I hope it's helpful.
+
+# New Release
+The previous code for this project had some issues and its output was incorrect. In the new code, a different approach has been used and its outputs are correct. You can find the new code and its output html report, as well as the previous code and its old pdf report, in new release.
+ 
